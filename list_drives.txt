@@ -1,0 +1,6 @@
+Games 1m3iCwj09gCn7JLusnBkZlmg9ODTtzLBq https://bot.anggarajati.workers.dev/Games
+Movies 1wES7t2cJBCiWwmjQty4H-avvdOjBqXb1 https://bot.anggarajati.workers.dev/Movies
+Music 1qxdn7WpdplVE91meMYR7YUmqaHRKzKQT https://bot.anggarajati.workers.dev/Music
+Others 1b23DXvqNmAtxstUB8F8nurOcHXbnNUXq https://bot.anggarajati.workers.dev/Others
+Series 1jSkA57unAR1hwUoqcmXz7-DxA6h_d1z5 https://bot.anggarajati.workers.dev/Series
+Software 1vTC4i4V12NuqCqsg8Mi68fCB69kafi9T https://bot.anggarajati.workers.dev/Software
